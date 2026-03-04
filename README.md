@@ -1,1 +1,1 @@
-# 2502031030024
+This folder contains Assignment 1 files.
